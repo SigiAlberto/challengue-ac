@@ -2,8 +2,7 @@
 Challengue Amigo Secreto Alura Grupo 8-ONE por Alberto Correa
 
 Actividad del challengue:
-
-![alt text](assets/as-1.png>)
+![alt text](assets/as-1.png)
 
 Dentro de la actividad se pidio que al seleccionar en el boton añadir se agregaran los amigos para realizar el sorteo
 ![alt text](assets/as-2.png)
