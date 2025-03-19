@@ -29,7 +29,7 @@ function agregarAmigo(){
     inputAmigo.value = "";
 
  }
-
+//Actualizar la lista de amigos
 function actualizarAmigos(){
     listaAmigos.innerHTML = "";
     Amigos.forEach(amigo =>{
@@ -50,5 +50,5 @@ function sortearAmigo(){
     const random = Math.floor(Math.random() * Amigos.length);
     const amigoSecreto = Amigos[random];
 //Mostrar el resultado del sorteo
-    resultadoSorteo.innerHTML = `<li> Tu amigo secreto es: ${amigoSecreto}</li>`;  
+    resultadoSorteo.innerHTML = `<li> Tu amigo secreto es: ${amigoSecreto}</li>`;
  }

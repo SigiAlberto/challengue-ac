@@ -19,3 +19,11 @@ También se pidio mostrar una alerta en caso de añadir un campo vacio como amig
 En caso de que la lista de amigos este vacia también se pedira que se agregue al menos dos personas para realizar el amigo secreto
 ![alt text](assets/as-6.png)
 
+A continuación les mostrare el codigo del Javascript realizado en el challengue
+![alt text](assets/az.png)
+
+![alt text](assets/az1.png)
+
+![alt text](assets/az2.png)
+
+Este seria la actividad del challengue terminado, muchas gracias por haber tenido la oportunidad de haber participado en este proyecto
